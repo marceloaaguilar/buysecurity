@@ -13,3 +13,5 @@ pagination: {
     clickable: true,
 },
 });
+
+AOS.init();
